@@ -3,14 +3,12 @@ lockfileVersion: 5.3
 specifiers:
   express: 4.17.1
   nodemon: 2.0.7
-  split: ^1.0.1
   sqlite: 4.0.19
   sqlite3: 5.0.2
 
 dependencies:
   express: 4.17.1
   nodemon: 2.0.7
-  split: 1.0.1
   sqlite: 4.0.19
   sqlite3: 5.0.2
 
@@ -1478,12 +1476,6 @@ packages:
     resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==}
     dev: false
 
-  /split/1.0.1:
-    resolution: {integrity: sha512-mTyOoPbrivtXnwnIxZRFYRrPNtEFKlpB2fvjSnCQUiAA6qAZzqwna5envK4uk6OIeP17CsdF3rSBGYVBsU0Tkg==}
-    dependencies:
-      through: 2.3.8
-    dev: false
-
   /sqlite/4.0.19:
     resolution: {integrity: sha512-UiHAgJI4NzbnBXdD3r8EHOpwCOiv8VxcC6dnOoEYPEde8bw6t2HRqUcvGppF3uOV/SrqyVHicMl5Cjmuaalnlw==}
     dev: false
@@ -1606,10 +1598,6 @@ packages:
   /term-size/2.2.1:
     resolution: {integrity: sha512-wK0Ri4fOGjv/XPy8SBHZChl8CM7uMc5VML7SqiQ0zG7+J5Vr+RMQDoHa2CNT6KHUnTGIXH34UDMkPzAUyapBZg==}
     engines: {node: '>=8'}
-    dev: false
-
-  /through/2.3.8:
-    resolution: {integrity: sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==}
     dev: false
 
   /to-readable-stream/1.0.0:
